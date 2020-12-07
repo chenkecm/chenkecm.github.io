@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Tan TAN"
+title                    : "Ke CHEN"
 title_separator          : "-"
-name                     : &name "Tan TAN"
-description              : &description "Ph.D. student<br>University College London (UCL), UK"
-url                      : https://tantan-ucl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ke CHEN"
+description              : &description "Associate Professor<br>Huazhong University of Science and Technology"
+url                      : https://chenkecm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tantan-ucl/tantan-ucl.github.io"
+repository               : "chenkecm/chenkecm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tan Tan"
-  avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D. student<br>University College London (UCL), UK"
-  location         : "London, United Kindom"
+  name             : "Ke Chen"
+  avatar           : "1.jpg" # "tantan.jpg" #
+  bio              : "Associate Professor<br>Huazhong University of Science and Technology"
+  location         : "Wuhan, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
-  email            : "tan.tan.17@ucl.ac.uk"
+  googlescholar    : 
+  email            : "chenkecm@hust.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -94,10 +94,10 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "tantan.uk"
+  instagram        : 
   lastfm           :
-  linkedin         : "mrtantan"
-  orcid            : 
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0003-3918-3820"
   pinterest        :
   soundcloud       :
   stackoverflow    :
