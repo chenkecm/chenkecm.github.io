@@ -42,8 +42,8 @@ author_profile: true
 36.	<b>Chen, K.</b>, Lu, W.*, Peng, Y., Rowlinson, S., & Huang, G. Q. (2015). Bridging BIM and building: From a literature review to an integrated conceptual framework. International Journal of Project Management, 33(6), 1405-1416. DOI: 10.1016/j.ijproman.2015.03.006
 
 # Journal Paper (In Chinese)
-1. <b>陈珂</b>，陈强健*，杜鹏（2021）国产BIM建模软件发展的思考：基于PCA的影响因素研究，土木建筑工程信息技术
-2. 金媛，余宏亮*，<b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究，科技管理研究
+1. <b>陈珂</b>, 陈强健*, 杜鹏（2021）国产BIM建模软件发展的思考: 基于PCA的影响因素研究, 土木建筑工程信息技术
+2. 金媛, 余宏亮*, <b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究, 科技管理研究
 3. 胡睿博, <b>陈珂</b>, 骆汉宾, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报
 
 # Conference Paper
