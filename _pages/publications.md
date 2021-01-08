@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Paper
-1.	Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2020). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, In Press, DOI: 10.3389/fpubh.2020.599769
-2.	<b>Chen, K.*</b>, & Xue, F. (2020). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
-3.	<b>Chen, K.*</b> (2020). Enhancing construction safety management through edge computing: Framework and scenarios. Journal of Information Technology in Construction, 25, 438-451. DOI: 10.36680/j.itcon.2020.025
-4.	Lu, W., Tan, T.*, Xu, J., Wang, J., <b>Chen, K.</b>, Gao, S., & Xue, F. (2020). Design for Manufacture and Assembly (DfMA) in construction: the old and the new. Architectural Engineering and Design Management, In Press. DOI: 10.1080/17452007.2020.1768505
-5.	Lu, W., <b>Chen, K.*</b>, Zetkulic, A., & Liang, C. (2020). Measuring building information modelling maturity: A Hong Kong case study. International Journal of Construction Management, In Press. DOI: 10.1080/15623599.2018.1532385
+1.	Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, In Press, DOI: 10.3389/fpubh.2020.599769
+2.	<b>Chen, K.*</b>, & Xue, F. (2021). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
+3.	Lu, W., Tan, T.*, Xu, J., Wang, J., <b>Chen, K.</b>, Gao, S., & Xue, F. (2021). Design for Manufacture and Assembly (DfMA) in construction: the old and the new. Architectural Engineering and Design Management, In Press. DOI: 10.1080/17452007.2020.1768505
+4.	Lu, W., <b>Chen, K.*</b>, Zetkulic, A., & Liang, C. (2021). Measuring building information modelling maturity: A Hong Kong case study. International Journal of Construction Management, In Press. DOI: 10.1080/15623599.2018.1532385
+5.	<b>Chen, K.*</b> (2020). Enhancing construction safety management through edge computing: Framework and scenarios. Journal of Information Technology in Construction, 25, 438-451. DOI: 10.36680/j.itcon.2020.025
 6.	<b>Chen, K.</b>, Lu, W.*, & Wang, J. (2020). University-industry collaboration for BIM education: Lessons learned from a case study. Industry and Higher Education, 34(6), 401-409. DOI: 10.1177/0950422220908799
 7.	Luo, H., Liu, J., Li, C., <b>Chen, K.*</b>, & Zhang, M. (2020) Ultra-rapid delivery of specialty field hospitals to combat COVID-19: Lessons learned from the Leishenshan Hospital project in Wuhan. Automation in Construction, 119, 103345. DOI: 10.1016/j.autcon.2020.103345
 8.	Li, C., Fang, Q., Ding, L.*, Cho, Y. K., & <b>Chen, K</b>. (2020). Time-dependent resilience analysis of a road network in an extreme environment. Transportation Research Part D: Transport and Environment, 85, 102395. DOI: 10.1016/j.trd.2020.102395  
