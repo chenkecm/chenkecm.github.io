@@ -43,6 +43,7 @@ International Journal of Building Pathology and Adaptation
 International Journal of Computer Integrated Manufacturing  
 International Journal of Construction Management  
 International Journal of Environmental Research and Public Health  
+Journal of Asian Architecture and Building Engineering  
 Journal of Building Engineering  
 Journal of Cleaner Production  
 Journal of Construction in Developing Countries  
