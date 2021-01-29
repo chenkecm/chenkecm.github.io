@@ -90,6 +90,6 @@ author_profile: true
 - Lu, W.*, Niu, Y., Liu, D., Chen, K., & Ye, M. (2016). i-Core: Towards a customizable smart construction system for Hong Kong. Innovation in Construction. Hong Kong Construction Industry Council.
 
 # Patent and Software Copyright
-- 一种液体空间打印装置及其工作方法, ZL 2019 1 0576970.9
+- 一种液体空间打印装置及其工作方法, ZL 2019 1 0576970.9  
 -《月亮湾城市阳台AR实景可视化系统》, 2019SR1424463
 
