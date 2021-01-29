@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Journal Paper
 ## 2021  
-- Li, C., Ding, L., Fang, Q.*, <b>Chen, K.*</b>, & Daniel, C-L (2021). Risk-informed knowledge-based design for road infrastructure in an extreme environment. Knowledge-Based Systems, In Press, DOI: 10.1016/j.knosys.2021.106741
+- Li, C., Ding, L., Fang, Q.*, <b>Chen, K.*</b>, & Daniel, C-L  (2021). Risk-informed knowledge-based design for road infrastructure in an extreme environment Knowledge-Based Systems, In Press, DOI: 10.1016/j.knosys.2021.106741
 - Zheng, L., <b>Chen, K.</b>, Tan, S., Yin, C., He, Q.*, & Wu, J. (2021). Landscape expansion-place quality nexus revisited: How fundamental and transitory growth impact in China? Land Use Policy, 103, 105294. DOI: 10.1016/j.landusepol.2021.105294
 - Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, 8, 599769. DOI: 10.3389/fpubh.2020.599769
 - <b>Chen, K.*</b>, & Xue, F. (2021). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
