@@ -14,7 +14,8 @@ I received my Bachelor's degree in Building Engineering and Management at The Ho
 Construction digital twin, BIM, safety management
 
 # Work Experience
-* **Associate Professor**, Department of Construction Management, School of Civil Engineering and Hydraulic Engineering, Huazhong University of Science and Technology, 2019/1-Present
+* **Associate Professor**, Department of Construction Management, School of Civil and Hydraulic Engineering, Huazhong University of Science and Technology, 2020/9-Present
+* **Associate Professor**, Department of Construction Management, School of Civil Engineering and Mechanics, Huazhong University of Science and Technology, 2019/1-2020/8
 * **Post-Doctoral Fellow**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2018/1-2019/1
 * **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2017/9-2018/1
 
