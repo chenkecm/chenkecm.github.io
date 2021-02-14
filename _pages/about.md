@@ -11,7 +11,9 @@ I am currently Associate Professor at School of Civil and Hydraulic Engineering,
 I received my Bachelor's degree in Building Engineering and Management at The Hong Kong Polytechnic University, and Ph.D. at The University of Hong Kong. Before I join HUST, I worked at [iLab](https://fac.arch.hku.hk/iLab/people/), The University of Hong Kong as Post-Doctoral Fellow, under the supervision of [Prof Weisheng Lu](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/).
 
 # Research Interests
-Construction digital twin, BIM, safety management
+BIM and emerging digital technologies  
+System modeling  
+Safety management  
 
 # Work Experience
 * **Associate Professor**, Department of Construction Management, School of Civil and Hydraulic Engineering, Huazhong University of Science and Technology, 2020/9-Present
