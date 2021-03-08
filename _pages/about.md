@@ -57,6 +57,7 @@ Journal of Information Technology in Construction
 Journal of Management in Engineering  
 Open Engineering  
 Results in Engineering  
+Revista de la Construcción  
 Sustainability  
 Symmetry  
 Transportation Research Part D: Transport and Environment  
