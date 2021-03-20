@@ -9,7 +9,7 @@ author_profile: true
 - Zheng, L., <b>Chen, K.</b>, Tan, S., Yin, C., He, Q.*, & Wu, J. (2021). Landscape expansion-place quality nexus revisited: How fundamental and transitory growth impact in China? Land Use Policy, 103, 105294. DOI: 10.1016/j.landusepol.2021.105294
 - Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, 8, 599769. DOI: 10.3389/fpubh.2020.599769
 - <b>Chen, K.*</b>, & Xue, F. (2021). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
-- Lu, W., Tan, T.*, Xu, J., Wang, J., <b>Chen, K.</b>, Gao, S., & Xue, F. (2021). Design for Manufacture and Assembly (DfMA) in construction: the old and the new. Architectural Engineering and Design Management, In Press. DOI: 10.1080/17452007.2020.1768505
+- Lu, W., Tan, T.*, Xu, J., Wang, J., <b>Chen, K.</b>, Gao, S., & Xue, F. (2021). Design for Manufacture and Assembly (DfMA) in construction: the old and the new. Architectural Engineering and Design Management, 17(1-2), 77-91. DOI: 10.1080/17452007.2020.1768505
 - Lu, W., <b>Chen, K.*</b>, Zetkulic, A., & Liang, C. (2021). Measuring building information modelling maturity: A Hong Kong case study. International Journal of Construction Management, 21(3), 299-311. DOI: 10.1080/15623599.2018.1532385
 ## 2020  
 - <b>Chen, K.*</b> (2020). Enhancing construction safety management through edge computing: Framework and scenarios. Journal of Information Technology in Construction, 25, 438-451. DOI: 10.36680/j.itcon.2020.025
