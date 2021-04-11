@@ -57,6 +57,7 @@ Journal of Information Technology in Construction
 Journal of Management in Engineering  
 Mathematical Problems in Engineering  
 Open Engineering  
+Resources, Conservation & Recycling  
 Results in Engineering  
 Revista de la Construcción  
 Sustainability  
