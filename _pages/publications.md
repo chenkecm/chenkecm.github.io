@@ -5,6 +5,7 @@ author_profile: true
 ---
 # Journal Paper
 ## 2021  
+- Hu, R., <b>Chen, K.*</b>, Chen, W., Wang, Q., & Luo, H. (2021). Estimation of construction waste generation based on an improved on-site measurement and SVM-based prediction model: A case of commercial buildings in China. Waste Management, In Press.
 - Li, C., Ding, L., Fang, Q.*, <b>Chen, K.*</b>, & Daniel, C-L  (2021). Risk-informed knowledge-based design for road infrastructure in an extreme environment. Knowledge-Based Systems, 216, 106741. DOI: 10.1016/j.knosys.2021.106741
 - Zheng, L., <b>Chen, K.</b>, Tan, S., Yin, C., He, Q.*, & Wu, J. (2021). Landscape expansion-place quality nexus revisited: How fundamental and transitory growth impact in China? Land Use Policy, 103, 105294. DOI: 10.1016/j.landusepol.2021.105294
 - Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, 8, 599769. DOI: 10.3389/fpubh.2020.599769
@@ -57,6 +58,7 @@ author_profile: true
 - 胡睿博, <b>陈珂</b>, 骆汉宾, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报
 
 # Conference Paper
+- Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
 - Tan, T.*, Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). BIM-enabled Design for Manufacture and Assembly. In Proceedings of the 27th International Workshop on Intelligent Computing in Engineering.
 - Tan, T., Lu, W., Li, C., Chen, K.*, & Tan, G. (2020). Implementation of Design for Manufacture and Assembly (DfMA) principles in construction: A case study. In Construction Research Congress 2020. ASCE.
 - Liu, Y., Chen, K.*, Wei, R., & Luo, H. (2020). Development of tailored engineering software by architecture, engineering, and construction companies: Benefits versus challenges. In Construction Research Congress 2020. ASCE.
