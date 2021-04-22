@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Journal Paper
 ## 2021  
-- Hu, R., <b>Chen, K.*</b>, Chen, W., Wang, Q., & Luo, H. (2021). Estimation of construction waste generation based on an improved on-site measurement and SVM-based prediction model: A case of commercial buildings in China. Waste Management, In Press.
+- Hu, R., <b>Chen, K.*</b>, Chen, W., Wang, Q., & Luo, H. (2021). Estimation of construction waste generation based on an improved on-site measurement and SVM-based prediction model: A case of commercial buildings in China. Waste Management, 126, 791-799. DOI: 10.1016/j.wasman.2021.04.012.
 - Li, C., Ding, L., Fang, Q.*, <b>Chen, K.*</b>, & Daniel, C-L  (2021). Risk-informed knowledge-based design for road infrastructure in an extreme environment. Knowledge-Based Systems, 216, 106741. DOI: 10.1016/j.knosys.2021.106741
 - Zheng, L., <b>Chen, K.</b>, Tan, S., Yin, C., He, Q.*, & Wu, J. (2021). Landscape expansion-place quality nexus revisited: How fundamental and transitory growth impact in China? Land Use Policy, 103, 105294. DOI: 10.1016/j.landusepol.2021.105294
 - Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, 8, 599769. DOI: 10.3389/fpubh.2020.599769
@@ -53,9 +53,10 @@ author_profile: true
 - <b>Chen, K.</b>, Lu, W.*, Peng, Y., Rowlinson, S., & Huang, G. Q. (2015). Bridging BIM and building: From a literature review to an integrated conceptual framework. International Journal of Project Management, 33(6), 1405-1416. DOI: 10.1016/j.ijproman.2015.03.006
 
 # Journal Paper (In Chinese)
+- <b>陈珂</b>, 高梁斐*, 余宏亮（2021）中国建筑业科技创新水平研究：跨时间和跨行业视角, 科技管理研究
 - <b>陈珂</b>, 陈强健*, 杜鹏（2021）国产BIM建模软件发展的思考: 基于PCA的影响因素研究, 土木建筑工程信息技术
 - 金媛, 余宏亮*, <b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究, 科技管理研究
-- 胡睿博, <b>陈珂</b>, 骆汉宾, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报
+- 胡睿博, <b>陈珂</b>, 骆汉宾*, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报
 
 # Conference Paper
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
