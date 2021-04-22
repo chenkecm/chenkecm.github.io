@@ -4,12 +4,19 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **IEEE Special Scholarship** (Top 2 students in School of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2017
-* **Best Paper Award Honorable Mention of SIGIR 2017 ([Link](http://sigir.org/sigir2017/program/awards/))**. August 9, Tokyo, Japan. 2017.
-* **Microsoft Azure Research Award**, Carnegie Mellon University. 2017.
-* **Scholarship of Excellent Undergraduates** (Top 2 students in school of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2016-2017
-* **National Scholarship** (Top 3 students in Computer Science Department), Shanghai Jiao Tong University. 2015-2016.
-* **Overall GPA Ranking Top 3 out of 151 ([Link](http://lantaoyu.com/files/ranking.pdf))** (Sophomore GPA Ranking 1st/151), Department of Computer Science, Shanghai Jiao Tong University. 2014-2017.
-* **Zhiyuan Honors Scholarship** (Top 5%, Twice), Shanghai Jiao Tong University. 2015 & 2016.
-* **Yuan-Ze Scholarship** (Top 2%), Zhiyuan College, Shanghai Jiao Tong University. 2014-2015.
-* **First Prize** in China Undergraduate Mathematical Contest in Modeling, Shanghai Division. 2015
+* **Research Output Prize 2018-19**, The University of Hong Kong
+* **Excellent Paper Award**, CRIOCM 2019 24th International Conference on Advancement of Construction Management and Real Estate
+* **Best Paper Award**, 2nd International Conference on Sustainable Buildings and Structures
+* **Top 1% of reviewers in Cross-Field on Publons global reviewer database**, Publons
+* **Outstanding Reviewer**, Journal of Cleaner Production. 2018.
+* **Outstanding Reviewer**, Automation in Construction. 2017.
+* **Talent Development Scholarship**, HKSAR Government Scholarship Fund
+* **Pilot Scheme on International Experience for Research Postgraduate Students**, three-month visit to Arizona State University
+* **Best Paper Award**, CRIOCM 2016 21st International Conference on Advancement of Construction Management and Real Estate
+* **Young Innovator Award**, Hong Kong Construction Industry Council
+* **Conference Support for Research Postgraduate Students**, The University of Hong Kong
+* **Distinction Paper Award**, CRIOCM 2015 20th International Conference on Advancement of Construction Management and Real Estate
+* **2nd Prize**, The Eighth Innovation Competition in Construction Engineering and Management, Tsinghua University
+* **Reaching Out Award**, HKSAR Government Scholarship Fund
+* **Postgraduate Scholarships**, The University of Hong Kong
+* **Dean’s List**, Department of Building and Real Estate, The Hong Kong Polytechnic University
