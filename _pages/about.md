@@ -35,7 +35,8 @@ Architectural Science Review
 Automation in Construction  
 Buildings  
 CivilEng  
-Cogent Engineering  
+Cogent Engineering 
+Complexity  
 Developments in the Built Environment  
 Engineering, Construction and Architectural Management  
 Environmental Science and Pollution Research  
