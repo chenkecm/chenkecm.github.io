@@ -65,24 +65,5 @@ Sustainability
 Symmetry  
 Transportation Research Part D: Transport and Environment  
 
-# Honors and Awards
-*	Research Output Prize 2018-19, The University of Hong Kong
-*	Excellent Paper Award, CRIOCM 2019 24th International Conference on Advancement of Construction Management and Real Estate
-*	Best Paper Award, 2nd International Conference on Sustainable Buildings and Structures
-*	Top 1% of reviewers in Cross-Field on Publons global reviewer database
-*	2018 Outstanding Reviewer, Journal of Cleaner Production
-*	2017 Outstanding Reviewer, Automation in Construction
-*	Talent Development Scholarship, HKSAR Government Scholarship Fund
-*	Pilot Scheme on International Experience for Research Postgraduate Students, three-month visit to Arizona State University
-*	Best Paper Award, CRIOCM 2016 21st International Conference on Advancement of Construction Management and Real Estate
-*	Young Innovator Award, Hong Kong Construction Industry Council
-*	Conference Support for Research Postgraduate Students, The University of Hong Kong
-*	Distinction Paper Award, CRIOCM 2015 20th International Conference on Advancement of Construction Management and Real Estate
-*	2nd Prize, The Eighth Innovation Competition in Construction Engineering and Management, Tsinghua University
-*	Reaching Out Award, HKSAR Government Scholarship Fund
-*	Postgraduate Scholarships, The University of Hong Kong
-*	Dean’s List, Department of Building and Real Estate, The Hong Kong Polytechnic University
-
-
 <!---Activity and Service--->
 <!---Experience--->
