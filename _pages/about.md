@@ -22,9 +22,10 @@ Safety management
 * **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2017/9-2018/1
 
 # Editorship and Scientific Committee
-Editorial Advisory Board Member of Heliyon (https://www.cell.com/heliyon/home)  
-Review Editor of Frontiers in Built Environment (https://www.frontiersin.org/journals/built-environment)  
-2nd International Conference on Sustainable Buildings and Structures  
+Editorial Board Member of **Buildings** (https://www.mdpi.com/journal/buildings)  
+Editorial Advisory Board Member of **Heliyon** (https://www.cell.com/heliyon/home)  
+Review Editor of **Frontiers in Built Environment** (https://www.frontiersin.org/journals/built-environment)  
+Scientific Committee Member of **2nd International Conference on Sustainable Buildings and Structures**  
 
 # Reviewer (In Alphabet Order)
 Advances in Civil Engineering  
