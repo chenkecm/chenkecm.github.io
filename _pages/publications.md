@@ -57,6 +57,7 @@ author_profile: true
 - <b>陈珂</b>, 陈强健*, 杜鹏（2021）国产BIM建模软件发展的思考: 基于PCA的影响因素研究, 土木建筑工程信息技术
 - 金媛, 余宏亮*, <b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究, 科技管理研究
 - 胡睿博, <b>陈珂</b>, 骆汉宾*, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报
+- 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2), 59-67.
 
 # Conference Paper
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
