@@ -25,6 +25,7 @@ Safety management
 Editorial Board Member of **Buildings** (https://www.mdpi.com/journal/buildings)  
 Editorial Advisory Board Member of **Heliyon** (https://www.cell.com/heliyon/home)  
 Review Editor of **Frontiers in Built Environment** (https://www.frontiersin.org/journals/built-environment)  
+Review Editor of **Frontiers in Sustainability** (https://www.frontiersin.org/journals/sustainability)  
 Guest Editor of **Sustainability** (https://www.mdpi.com/journal/sustainability)  
 Scientific Committee Member of **2nd International Conference on Sustainable Buildings and Structures**  
 
@@ -66,6 +67,7 @@ Revista de la Construcción
 Sustainability  
 Symmetry  
 Transportation Research Part D: Transport and Environment  
+Waste Management  
 
 <!---Activity and Service--->
 <!---Experience--->
