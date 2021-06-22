@@ -56,6 +56,7 @@ International Journal of Environmental Research and Public Health
 Journal of Asian Architecture and Building Engineering  
 Journal of Building Engineering  
 Journal of Cleaner Production  
+Journal of Computational Design and Engineering  
 Journal of Construction in Developing Countries  
 Journal of Information Technology in Construction  
 Journal of Management in Engineering  
