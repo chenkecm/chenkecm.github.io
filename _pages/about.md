@@ -41,6 +41,7 @@ CivilEng
 Cogent Engineering 
 Complexity  
 Developments in the Built Environment  
+Energies  
 Engineering, Construction and Architectural Management  
 Environmental Science and Pollution Research  
 Environments  
