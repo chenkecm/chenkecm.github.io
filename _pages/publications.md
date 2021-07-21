@@ -10,6 +10,7 @@ author_profile: true
 - Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, 8, 599769. DOI: 10.3389/fpubh.2020.599769
 - Lu, W., <b>Chen, K.*</b>, Zetkulic, A., & Liang, C. (2021). Measuring building information modelling maturity: A Hong Kong case study. International Journal of Construction Management, 21(3), 299-311. DOI: 10.1080/15623599.2018.1532385
 - <b>Chen, K.*</b>, & Xue, F. (2021). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
+- Jiang, F., Ma, L., Broyd, T., <b>Chen, K.</b> (2021). Digital twin and its implementations in the civil engineering sector. Automation in Construction, In Press.
 - Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2021). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819
 - Zheng, L., <b>Chen, K.</b>, Tan, S., Yin, C., He, Q.*, & Wu, J. (2021). Landscape expansion-place quality nexus revisited: How fundamental and transitory growth impact in China? Land Use Policy, 103, 105294. DOI: 10.1016/j.landusepol.2021.105294
 - Lu, W., Tan, T.*, Xu, J., Wang, J., <b>Chen, K.</b>, Gao, S., & Xue, F. (2021). Design for Manufacture and Assembly (DfMA) in construction: the old and the new. Architectural Engineering and Design Management, 17(1-2), 77-91. DOI: 10.1080/17452007.2020.1768505
@@ -55,6 +56,7 @@ author_profile: true
 
 # Journal Paper (In Chinese)
 - <b>陈珂</b>, 丁烈云*（2021）我国智能建造关键领域技术发展的战略思考, 中国工程科学
+- <b>陈珂</b>, 胡睿博, 胡广东*, 池彬（2021）中、美、英绿色建筑运维评价体系的对比研究, 施工技术
 - <b>陈珂*</b>, 马恩成, 陈强健, 谭坦（2021）基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊
 - <b>陈珂</b>, 杜鹏*, 方伟立, 高梁斐（2021）我国建筑业数字化转型：内涵、参与主体和政策工具, 土木工程与管理学报
 - <b>陈珂</b>, 高梁斐*, 余宏亮（2021）中国建筑业科技创新水平研究：跨时间和跨行业视角, 科技管理研究
