@@ -30,6 +30,7 @@ Guest Editor of **Sustainability** (https://www.mdpi.com/journal/sustainability)
 Scientific Committee Member of **2nd International Conference on Sustainable Buildings and Structures**  
 
 # Reviewer (In Alphabet Order)
+Acta Technica Jaurinensis  
 Advances in Civil Engineering  
 AIMS Environmental Science  
 Applied Sciences  
@@ -58,11 +59,13 @@ Journal of Asian Architecture and Building Engineering
 Journal of Building Engineering  
 Journal of Cleaner Production  
 Journal of Computational Design and Engineering  
+Journal of Construction Engineering and Management  
 Journal of Construction in Developing Countries  
 Journal of Information Technology in Construction  
 Journal of Management in Engineering  
 Mathematical Problems in Engineering  
 Open Engineering  
+Open Geosciences  
 Resources, Conservation & Recycling  
 Results in Engineering  
 Revista de la Construcción  
