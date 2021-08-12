@@ -37,6 +37,7 @@ Applied Sciences
 Architectural Engineering and Design Management  
 Architectural Science Review  
 Automation in Construction  
+Building Research & Information  
 Buildings  
 CivilEng  
 Cogent Engineering 
