@@ -55,15 +55,15 @@ author_profile: true
 - <b>Chen, K.</b>, Lu, W.*, Peng, Y., Rowlinson, S., & Huang, G. Q. (2015). Bridging BIM and building: From a literature review to an integrated conceptual framework. International Journal of Project Management, 33(6), 1405-1416. DOI: 10.1016/j.ijproman.2015.03.006
 
 # Journal Paper (In Chinese)
-- <b>陈珂</b>, 丁烈云*（2021）我国智能建造关键领域技术发展的战略思考, 中国工程科学
+- <b>陈珂</b>, 丁烈云*（2021）我国智能建造关键领域技术发展的战略思考, 中国工程科学, 23(4): 64-70.
 - <b>陈珂</b>, 胡睿博, 胡广东*, 池彬（2021）中、美、英绿色建筑运维评价体系的对比研究, 施工技术
 - <b>陈珂*</b>, 马恩成, 陈强健, 谭坦（2021）基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊
-- <b>陈珂</b>, 杜鹏*, 方伟立, 高梁斐（2021）我国建筑业数字化转型：内涵、参与主体和政策工具, 土木工程与管理学报
+- <b>陈珂</b>, 杜鹏*, 方伟立, 高梁斐（2021）我国建筑业数字化转型：内涵、参与主体和政策工具, 土木工程与管理学报, 38(4): 23-29.
 - <b>陈珂</b>, 高梁斐*, 余宏亮（2021）中国建筑业科技创新水平研究：跨时间和跨行业视角, 科技管理研究
 - <b>陈珂</b>, 陈强健*, 杜鹏（2021）国产BIM建模软件发展的思考: 基于PCA的影响因素研究, 土木建筑工程信息技术
-- 金媛, 余宏亮*, <b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究, 科技管理研究, 41(13), 48-57.
-- 胡睿博, <b>陈珂</b>, 骆汉宾*, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报
-- 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2), 59-67.
+- 金媛, 余宏亮*, <b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究, 科技管理研究, 41(13): 48-57.
+- 胡睿博, <b>陈珂</b>, 骆汉宾*, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报, 38(4): 168-175.
+- 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2): 59-67.
 
 # Conference Paper
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
