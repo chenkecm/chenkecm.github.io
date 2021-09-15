@@ -67,6 +67,7 @@ author_profile: true
 
 # Conference Paper
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
+- Tan, T*., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & Chen, K. (2021). BIM-enabled sustainability assessment of design for manufacture and assembly. In Proceedings of 38th International Symposium on Automation and Robotics in Construction.
 - Tan, T.*, Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). BIM-enabled Design for Manufacture and Assembly. In Proceedings of the 27th International Workshop on Intelligent Computing in Engineering.
 - Tan, T., Lu, W., Li, C., Chen, K.*, & Tan, G. (2020). Implementation of Design for Manufacture and Assembly (DfMA) principles in construction: A case study. In Construction Research Congress 2020. ASCE.
 - Liu, Y., Chen, K.*, Wei, R., & Luo, H. (2020). Development of tailored engineering software by architecture, engineering, and construction companies: Benefits versus challenges. In Construction Research Congress 2020. ASCE.
