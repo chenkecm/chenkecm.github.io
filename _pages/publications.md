@@ -4,14 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Paper
+## 2022
+- Luo, H., Li, L., & <b>Chen, K.*</b> (2022). Parametric modeling for detailed typesetting and deviation correction in shield tunneling construction. Automation in Construction, In Press.
+- <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
+- Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819
 ## 2021  
 - Hu, R., <b>Chen, K.*</b>, Chen, W., Wang, Q., & Luo, H. (2021). Estimation of construction waste generation based on an improved on-site measurement and SVM-based prediction model: A case of commercial buildings in China. Waste Management, 126, 791-799. DOI: 10.1016/j.wasman.2021.04.012.
 - Li, C., Ding, L., Fang, Q.*, <b>Chen, K.*</b>, & Daniel, C-L  (2021). Risk-informed knowledge-based design for road infrastructure in an extreme environment. Knowledge-Based Systems, 216, 106741. DOI: 10.1016/j.knosys.2021.106741
 - Zheng, L., <b>Chen, K.*</b>, & Ma, L. (2021). Knowledge, attitudes, and practices towards COVID-19 among construction industry practitioners in China. Frontiers in Public Health, 8, 599769. DOI: 10.3389/fpubh.2020.599769
 - Lu, W., <b>Chen, K.*</b>, Zetkulic, A., & Liang, C. (2021). Measuring building information modelling maturity: A Hong Kong case study. International Journal of Construction Management, 21(3), 299-311. DOI: 10.1080/15623599.2018.1532385
-- <b>Chen, K.*</b>, & Xue, F. (2021). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
 - Jiang, F., Ma, L., Broyd, T., <b>Chen, K.</b> (2021). Digital twin and its implementations in the civil engineering sector. Automation in Construction, 130, 103838. DOI: 10.1016/j.autcon.2021.103838
-- Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2021). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819
 - Zheng, L., <b>Chen, K.</b>, Tan, S., Yin, C., He, Q.*, & Wu, J. (2021). Landscape expansion-place quality nexus revisited: How fundamental and transitory growth impact in China? Land Use Policy, 103, 105294. DOI: 10.1016/j.landusepol.2021.105294
 - Lu, W., Tan, T.*, Xu, J., Wang, J., <b>Chen, K.</b>, Gao, S., & Xue, F. (2021). Design for Manufacture and Assembly (DfMA) in construction: the old and the new. Architectural Engineering and Design Management, 17(1-2), 77-91. DOI: 10.1080/17452007.2020.1768505
 ## 2020  
