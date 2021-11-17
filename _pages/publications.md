@@ -46,7 +46,6 @@ author_profile: true
 ## 2017
 - Niu, Y.*, Lu, W., Liu, D., <b>Chen, K.</b>, Anumba, C., & Huang, G. G. (2017). An SCO-enabled logistics and supply chain management system in construction. Journal of Construction Engineering and Management, 143(3), 04016103. DOI: 10.1061/(ASCE)CO.1943-7862.0001232
 - Lu, W.*, Webster, C., <b>Chen, K.</b>, Zhang, X., & Chen, X. (2017). Computational Building Information Modelling for construction waste management: moving from rhetoric to reality. Renewable & Sustainable Energy Reviews, 68, 587-595. DOI: 10.1016/j.rser.2016.10.029
-- Lu, W.*, Webster, C., <b>Chen, K.</b>, Zhang, X., & Chen, X. (2017). Computational Building Information Modelling for construction waste management: moving from rhetoric to reality. Renewable & Sustainable Energy Reviews, 68, 587-595. DOI: 10.1016/j.rser.2016.10.029
 - <b>Chen, K.</b>, Lu, W.*, Wang, H., Niu, Y., & Huang, G. G. (2017). Naming objects in BIM: A convention and a semi-automatic approach. Journal of Construction Engineering and Management, 143(7), 06017001. DOI: 10.1061/(ASCE)CO.1943-7862.0001314
 - Zheng, L.*, Lu, W., <b>Chen, K.</b>, Chau, K. W., & Niu, Y. (2017). Benefit sharing for BIM implementation: Tackling the moral hazard dilemma in inter-firm cooperation. International Journal of Project Management, 35(3), 393-405. DOI: 10.1016/j.ijproman.2017.01.006
 - Zheng, L., Zheng, X.*, & <b>Chen, K.</b> (2017). Incomplete privatization of public rental housing in Hong Kong. Land Use Policy, 67, 537-545. DOI: 10.1016/j.landusepol.2017.07.007
