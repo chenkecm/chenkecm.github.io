@@ -30,50 +30,7 @@ Guest Editor of **Sustainability** (https://www.mdpi.com/journal/sustainability)
 Scientific Committee Member of **2nd International Conference on Sustainable Buildings and Structures**  
 
 # Reviewer (In Alphabet Order)
-Acta Technica Jaurinensis  
-Advances in Civil Engineering  
-AIMS Environmental Science  
-Applied Sciences  
-Architectural Engineering and Design Management  
-Architectural Science Review  
-Automation in Construction  
-Building Research & Information  
-Buildings  
-CivilEng  
-Cogent Engineering 
-Complexity  
-Developments in the Built Environment  
-Energies  
-Engineering, Construction and Architectural Management  
-Environmental Science and Pollution Research  
-Environments  
-Engineering Science and Technology, an International Journal  
-Frontiers in Built Environment  
-Frontiers of Engineering Management  
-IEEE Access  
-Infrastructures  
-International Journal of Building Pathology and Adaptation  
-International Journal of Computer Integrated Manufacturing  
-International Journal of Construction Management  
-International Journal of Environmental Research and Public Health  
-Journal of Asian Architecture and Building Engineering  
-Journal of Building Engineering  
-Journal of Cleaner Production  
-Journal of Computational Design and Engineering  
-Journal of Construction Engineering and Management  
-Journal of Construction in Developing Countries  
-Journal of Information Technology in Construction  
-Journal of Management in Engineering  
-Mathematical Problems in Engineering  
-Open Engineering  
-Open Geosciences  
-Resources, Conservation & Recycling  
-Results in Engineering  
-Revista de la Construcción  
-Sustainability  
-Symmetry  
-Transportation Research Part D: Transport and Environment  
-Waste Management  
+Acta Technica Jaurinensis, Advances in Civil Engineering, AIMS Environmental Science, Applied Sciences, Architectural Engineering and Design Management, Architectural Science Review, Automation in Construction, Building Research & Information, Buildings, CivilEng, Cogent Engineering, Complexity, Developments in the Built Environment, Energies, Engineering, Construction and Architectural Management, Environmental Science and Pollution Research, Environments, Engineering Science and Technology an International Journal, Frontiers in Built Environment, Frontiers of Engineering Management, IEEE Access, Infrastructures, International Journal of Building Pathology and Adaptation, International Journal of Computer Integrated Manufacturing, International Journal of Construction Management, International Journal of Environmental Research and Public Health, Journal of Asian Architecture and Building Engineering, Journal of Building Engineering, Journal of Cleaner Production, Journal of Computational Design and Engineering, Journal of Construction Engineering and Management, Journal of Construction in Developing Countries, Journal of Information Technology in Construction, Journal of Management in Engineering, Mathematical Problems in Engineering, Open Engineering, Open Geosciences, Resources, Conservation & Recycling, Results in Engineering, Revista de la Construcción, Sustainability, Symmetry, Transportation Research Part D: Transport and Environment, Waste Management  
 
 <!---Activity and Service--->
 <!---Experience--->
