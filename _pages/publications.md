@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Journal Paper
 ## 2022
-- Hu, R., <b>Chen, K.*</b>, Fang, W., Zheng, L.*, & Xu, J. (2022). The technology-environment relationship revisited: Evidence from the impact of prefabrication on reducing construction waste. Journal of Cleaner Production, In Press.
+- Hu, R., <b>Chen, K.*</b>, Fang, W., Zheng, L., & Xu, J. (2022). The technology-environment relationship revisited: Evidence from the impact of prefabrication on reducing construction waste. Journal of Cleaner Production, In Press.
 - Zheng, L., Zhang, L., <b>Chen, K.</b>, & He, Q.* (2022). Unmasking unexpected health care inequalities in China using urban big data: Service-rich and service-poor communities. Plos One, In Press.
 - Luo, H., Li, L., & <b>Chen, K.*</b> (2022). Parametric modeling for detailed typesetting and deviation correction in shield tunneling construction. Automation in Construction, 134, 104052. DOI: 10.1016/j.autcon.2021.104052.
 - <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
