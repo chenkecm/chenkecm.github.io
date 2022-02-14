@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Journal Paper
 ## 2022
-- Hu, R., <b>Chen, K.*</b>, Fang, W., Zheng, L., & Xu, J. (2022). The technology-environment relationship revisited: Evidence from the impact of prefabrication on reducing construction waste. Journal of Cleaner Production, In Press.
+- Hu, R., <b>Chen, K.*</b>, Fang, W., Zheng, L., & Xu, J. (2022). The technology-environment relationship revisited: Evidence from the impact of prefabrication on reducing construction waste. Journal of Cleaner Production, 341, 130883. DOI: 10.1016/j.jclepro.2022.130883.
 - Zheng, L., Zhang, L., <b>Chen, K.</b>, & He, Q.* (2022). Unmasking unexpected health care inequalities in China using urban big data: Service-rich and service-poor communities. Plos One, In Press.
 - Luo, H., Li, L., & <b>Chen, K.*</b> (2022). Parametric modeling for detailed typesetting and deviation correction in shield tunneling construction. Automation in Construction, 134, 104052. DOI: 10.1016/j.autcon.2021.104052.
 - <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
@@ -100,6 +100,7 @@ author_profile: true
 - Peng, Y.*, Lu, W., & Chen, K. (2015). Disparity of willingness-to-pay and ought-to-pay for construction waste in Hong Kong: A conceptual model. In Proceedings of the 19th International Symposium on the Advancement of Construction Management and Real Estate (pp. 823-833). Springer.
 
 # Book Chapter
+- Luo, H., Wang, L., Chen, K.* (2022). 4D building information modeling-enabled safety management for metro construction, in Lu, W. & Anumba, C. (eds.) Research Companion to Building Information Modeling. Edward Elgar.
 - Lu, W.*, Peng, Y., Xue, F., Chen, K., Niu, Y., & Chen, X. (2017). The fusion of Geographic Information System (GIS) and Building Information Modeling (BIM) for big data analytics in managing development sites, in Huang et al. (ed.) Comprehensive Geographic Information Systems. Elsevier.
 - Lu, W.*, Niu, Y., Liu, D., Chen, K., & Ye, M. (2016). i-Core: Towards a customizable smart construction system for Hong Kong. Innovation in Construction. Hong Kong Construction Industry Council.
 
