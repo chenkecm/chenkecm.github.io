@@ -102,7 +102,7 @@ author_profile: true
 - Peng, Y.*, Lu, W., & Chen, K. (2015). Disparity of willingness-to-pay and ought-to-pay for construction waste in Hong Kong: A conceptual model. In Proceedings of the 19th International Symposium on the Advancement of Construction Management and Real Estate (pp. 823-833). Springer.
 
 # Book Chapter
-- Luo, H., Wang, L., Chen, K.* (2022). 4D building information modeling-enabled safety management for metro construction, in Lu, W. & Anumba, C. (eds.) Research Companion to Building Information Modeling. Edward Elgar.
+- Luo, H., Wang, L., & Chen, K.* (2022). 4D building information modeling-enabled safety management for metro construction, in Lu, W. & Anumba, C. (eds.) Research Companion to Building Information Modeling. Edward Elgar.
 - Lu, W.*, Peng, Y., Xue, F., Chen, K., Niu, Y., & Chen, X. (2017). The fusion of Geographic Information System (GIS) and Building Information Modeling (BIM) for big data analytics in managing development sites, in Huang et al. (ed.) Comprehensive Geographic Information Systems. Elsevier.
 - Lu, W.*, Niu, Y., Liu, D., Chen, K., & Ye, M. (2016). i-Core: Towards a customizable smart construction system for Hong Kong. Innovation in Construction. Hong Kong Construction Industry Council.
 
