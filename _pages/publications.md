@@ -71,6 +71,7 @@ author_profile: true
 - 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2): 59-67.
 
 # Conference Paper
+- Chen, K., Liu, Y., Hu, R.*, & Fang, W. (2022). A digital twin-driven deformation monitoring system for deep foundation pit excavation. In Proceedings of 29th EG-ICE International Workshop on Intelligent Computing in Engineering.
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
 - Tan, T*., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & Chen, K. (2021). BIM-enabled sustainability assessment of design for manufacture and assembly. In Proceedings of 38th International Symposium on Automation and Robotics in Construction.
 - Tan, T.*, Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). BIM-enabled Design for Manufacture and Assembly. In Proceedings of the 27th International Workshop on Intelligent Computing in Engineering.
