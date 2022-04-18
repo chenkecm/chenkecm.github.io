@@ -22,8 +22,8 @@ Safety management
 * **Research Assistant**, iLAB, Department of Real Estate and Construction, The University of Hong Kong, 2017/9-2018/1
 
 # Editorship and Scientific Committee
+Associate Editor of **Frontiers in Built Environment** (https://www.frontiersin.org/journals/built-environment)  
 Editorial Board Member of **Buildings** (https://www.mdpi.com/journal/buildings)  
-Review Editor of **Frontiers in Built Environment** (https://www.frontiersin.org/journals/built-environment)  
 Review Editor of **Frontiers in Sustainability** (https://www.frontiersin.org/journals/sustainability)  
 Editorial Advisory Board Member of **Heliyon** 2019-2021 (https://www.cell.com/heliyon/home)  
 Guest Editor of **Sustainability** 2021 (https://www.mdpi.com/journal/sustainability)  
