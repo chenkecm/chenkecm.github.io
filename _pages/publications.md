@@ -58,6 +58,7 @@ author_profile: true
 - <b>Chen, K.</b>, Lu, W.*, Peng, Y., Rowlinson, S., & Huang, G. Q. (2015). Bridging BIM and building: From a literature review to an integrated conceptual framework. International Journal of Project Management, 33(6), 1405-1416. DOI: 10.1016/j.ijproman.2015.03.006
 
 # Journal Paper (In Chinese)
+- 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设
 - <b>陈珂</b>, 余璟, 张芸菡*, 付赛娅 (2022) 智慧工地的内涵及体系架构研究, 施工技术
 - 余璟, 杨玥, 刘珺敏, <b>陈珂*</b> (2022) 我国工程大数据应用现状及发展影响因素研究, 科技创新与应用
 - <b>陈珂</b>, 胡睿博, 胡广东*, 池彬（2022）中、美、英绿色建筑运维评价体系的对比研究, 施工技术
@@ -71,7 +72,6 @@ author_profile: true
 - 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2): 59-67.
 
 # Conference Paper
-- Chen, K., Liu, Y., Hu, R.*, & Fang, W. (2022). A digital twin-driven deformation monitoring system for deep foundation pit excavation. In Proceedings of 29th EG-ICE International Workshop on Intelligent Computing in Engineering.
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
 - Tan, T*., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & Chen, K. (2021). BIM-enabled sustainability assessment of design for manufacture and assembly. In Proceedings of 38th International Symposium on Automation and Robotics in Construction.
 - Tan, T.*, Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). BIM-enabled Design for Manufacture and Assembly. In Proceedings of the 27th International Workshop on Intelligent Computing in Engineering.
@@ -112,5 +112,3 @@ author_profile: true
 - 《月亮湾城市阳台AR实景可视化系统》, 2019SR1424463
 - 《两湖隧道智能工地监控平台软件》，2021SR1413890
 - 《两湖隧道隐患排查系统》，2021SR1413892
-
-
