@@ -8,6 +8,8 @@ author_profile: true
 - Hu, R., <b>Chen, K.*</b>, Fang, W., Zheng, L., & Xu, J. (2022). The technology-environment relationship revisited: Evidence from the impact of prefabrication on reducing construction waste. Journal of Cleaner Production, 341, 130883. DOI: 10.1016/j.jclepro.2022.130883
 - Zheng, L., Zhang, L., <b>Chen, K.</b>, & He, Q.* (2022). Unmasking unexpected health care inequalities in China using urban big data: Service-rich and service-poor communities. Plos One, 17(2), e0263577. DOI: 10.1371/journal.pone.0263577
 - Luo, H., Li, L., & <b>Chen, K.*</b> (2022). Parametric modeling for detailed typesetting and deviation correction in shield tunneling construction. Automation in Construction, 134, 104052. DOI: 10.1016/j.autcon.2021.104052
+- Liu, W., Shao, Y., <b>Chen, K.</b>, Li, C.*, & Luo, H. (2022). Whale optimization algorithm-based point cloud data processing method for sewer pipeline inspection. Automation in Construction, 141, 104423. DOI: 10.1016/j.autcon.2022.104423
+- Jiang, F., Ma, L.*, Broyd, T., <b>Chen, K.</b>, & Luo, H. (2022). Underpass clearance checking in highway widening projects using digital twins. Automation in Construction, 141, 104406. DOI: 10.1016/j.autcon.2022.104406
 - <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124
 - Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819
 ## 2021  
