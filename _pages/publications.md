@@ -61,8 +61,9 @@ author_profile: true
 
 # Journal Paper (In Chinese)
 - 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设
+- 魏炜*, 张杰辉, <b>陈珂</b>, 张新, 李坤伦 (2022) 基于G1-CRITIC-FCE的装配式建筑吊装作业施工安全风险评价, 海峡科学
 - <b>陈珂</b>, 余璟, 张芸菡*, 付赛娅 (2022) 智慧工地的内涵及体系架构研究, 施工技术, 51(11): 7-11+17.
-- 余璟, 杨玥, 刘珺敏, <b>陈珂*</b> (2022) 我国工程大数据应用现状及发展影响因素研究, 科技创新与应用
+- 余璟, 杨玥, 刘珺敏, <b>陈珂*</b> (2022) 我国工程大数据应用现状及发展影响因素研究, 科技创新与应用, 12(19): 18-23.
 - <b>陈珂</b>, 胡睿博, 胡广东*, 池彬（2022）中、美、英绿色建筑运维评价体系的对比研究, 施工技术, 51(11): 1-6.
 - <b>陈珂</b>, 丁烈云*（2021）我国智能建造关键领域技术发展的战略思考, 中国工程科学, 23(4): 64-70.
 - <b>陈珂*</b>, 马恩成, 陈强健, 谭坦（2021）基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊, 10(Z1): 37-46.
@@ -74,6 +75,7 @@ author_profile: true
 - 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2): 59-67.
 
 # Conference Paper
+- Chen, K., Liu, Y., Hu, R.*, & Fang, W. (2022). A digital twin-driven deformation monitoring system for deep foundation pit excavation. In Proceedings of 29th EG-ICE International Workshop on Intelligent Computing in Engineering.
 - Liu, Y., Chen, K.*, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.
 - Tan, T*., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & Chen, K. (2021). BIM-enabled sustainability assessment of design for manufacture and assembly. In Proceedings of 38th International Symposium on Automation and Robotics in Construction.
 - Tan, T.*, Mills, G., Papadonikolaki, E., Lu, W., & Chen, K. (2020). BIM-enabled Design for Manufacture and Assembly. In Proceedings of the 27th International Workshop on Intelligent Computing in Engineering.
@@ -105,6 +107,8 @@ author_profile: true
 - Peng, Y.*, Lu, W., & Chen, K. (2015). Disparity of willingness-to-pay and ought-to-pay for construction waste in Hong Kong: A conceptual model. In Proceedings of the 19th International Symposium on the Advancement of Construction Management and Real Estate (pp. 823-833). Springer.
 
 # Book Chapter
+- 工程项目管理信息分析，中国建筑工业出版社（参编第12章）
+- 数字建造导论，中国建筑工业出版社（参编第6、7章）
 - Luo, H., Wang, L., & Chen, K.* (2022). 4D building information modeling-enabled safety management for metro construction, in Lu, W. & Anumba, C. (eds.) Research Companion to Building Information Modeling. Edward Elgar.
 - Lu, W.*, Peng, Y., Xue, F., Chen, K., Niu, Y., & Chen, X. (2017). The fusion of Geographic Information System (GIS) and Building Information Modeling (BIM) for big data analytics in managing development sites, in Huang et al. (ed.) Comprehensive Geographic Information Systems. Elsevier.
 - Lu, W.*, Niu, Y., Liu, D., Chen, K., & Ye, M. (2016). i-Core: Towards a customizable smart construction system for Hong Kong. Innovation in Construction. Hong Kong Construction Industry Council.
