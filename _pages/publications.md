@@ -115,12 +115,14 @@ author_profile: true
 - Lu, W.*, Peng, Y., Xue, F., Chen, K., Niu, Y., & Chen, X. (2017). The fusion of Geographic Information System (GIS) and Building Information Modeling (BIM) for big data analytics in managing development sites, in Huang et al. (ed.) Comprehensive Geographic Information Systems. Elsevier.
 - Lu, W.*, Niu, Y., Liu, D., Chen, K., & Ye, M. (2016). i-Core: Towards a customizable smart construction system for Hong Kong. Innovation in Construction. Hong Kong Construction Industry Council.
 
-# Patent and Software Copyright
+# Patent
 - 一种液体空间打印装置及其工作方法，ZL 201910576970.9
 - 考虑人机混驾交通流的信号控制交叉口通行能力确定方法，ZL 202110949438.4
 - 一种自动驾驶车辆专用车道直线段宽度确定方法，ZL 202111054510.3
 - 网联自动汽车通行能力校正因子与折算系数确定方法，ZL 202111118941.1
 - 一种高速公路自动驾驶专用车道设置决策方法，ZL 202111197797.5  
+
+# Software Copyright
 - 月亮湾城市阳台AR实景可视化系统，2019SR1424463
 - 两湖隧道智能工地监控平台软件，2021SR1413890
 - 两湖隧道隐患排查系统，2021SR1413892
@@ -129,4 +131,3 @@ author_profile: true
 - 轨道交通质量管理云应用系统，2022SR0472608
 - 深基坑施工安全监控预警云应用系统, 2022SR0696280
 - 两湖隧道施工环境风险可视化平台软件，2022SR0934027
-
