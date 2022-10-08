@@ -67,7 +67,7 @@ author_profile: true
 - <b>J46</b>. Liu, W., Shao, Y., <b>Chen, K.</b>, Li, C.*, & Luo, H. (2022). Whale optimization algorithm-based point cloud data processing method for sewer pipeline inspection. Automation in Construction, 141, 104423. DOI: 10.1016/j.autcon.2022.104423  
 - <b>J47</b>. <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124  
 - <b>J48</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819  
-- <b>CJ8</b>. <b>陈珂</b>，张芸菡，梁玉瑾*，余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
+- <b>CJ8</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
 - <b>CJ9</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报  
 - <b>CJ10</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术  
 - <b>CJ11</b>. 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设  
