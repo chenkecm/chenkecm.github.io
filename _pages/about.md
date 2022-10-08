@@ -28,6 +28,7 @@ Review Editor of **Frontiers in Sustainability** (https://www.frontiersin.org/jo
 Editorial Advisory Board Member of **Heliyon** 2019-2021 (https://www.cell.com/heliyon/home)  
 Guest Editor of **Sustainability** 2021 (https://www.mdpi.com/journal/sustainability)  
 Scientific Committee Member of **2nd International Conference on Sustainable Buildings and Structures**  
+Scientific Committee Member of **2023 EG-ICE International Workshop on Intelligent Computing in Engineering**  
 
 <!---Activity and Service--->
 <!---Experience--->
