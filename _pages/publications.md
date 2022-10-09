@@ -5,9 +5,11 @@ author_profile: true
 ---
 # Journal Paper
 ## 2015
-- <b>J1</b>. <b>Chen, K.</b>, Lu, W.*, Peng, Y., Rowlinson, S., & Huang, G. Q. (2015). Bridging BIM and building: From a literature review to an integrated conceptual framework. International Journal of Project Management, 33(6), 1405-1416. DOI: 10.1016/j.ijproman.2015.03.006
+- <b>J1</b>. <b>Chen, K.</b>, Lu, W.*, Peng, Y., Rowlinson, S., & Huang, G. Q. (2015). Bridging BIM and building: From a literature review to an integrated conceptual framework. International Journal of Project Management, 33(6), 1405-1416. DOI: 10.1016/j.ijproman.2015.03.006  
+
 ## 2016
-- <b>J2</b>. Niu, Y., Lu, W.*, <b>Chen, K.</b>, Huang, G. G., & Anumba, C. (2016). Smart construction objects. Journal of Computing in Civil Engineering, 30(4), 04015070. DOI: 10.1061/(ASCE)CP.1943-5487.0000550
+- <b>J2</b>. Niu, Y., Lu, W.*, <b>Chen, K.</b>, Huang, G. G., & Anumba, C. (2016). Smart construction objects. Journal of Computing in Civil Engineering, 30(4), 04015070. DOI: 10.1061/(ASCE)CP.1943-5487.0000550  
+
 ## 2017
 - <b>J3</b>. Niu, Y.*, Lu, W., Liu, D., <b>Chen, K.</b>, Anumba, C., & Huang, G. G. (2017). An SCO-enabled logistics and supply chain management system in construction. Journal of Construction Engineering and Management, 143(3), 04016103. DOI: 10.1061/(ASCE)CO.1943-7862.0001232  
 - <b>J4</b>. Lu, W.*, Webster, C., <b>Chen, K.</b>, Zhang, X., & Chen, X. (2017). Computational Building Information Modelling for construction waste management: moving from rhetoric to reality. Renewable & Sustainable Energy Reviews, 68, 587-595. DOI: 10.1016/j.rser.2016.10.029  
@@ -15,6 +17,7 @@ author_profile: true
 - <b>J6</b>. Zheng, L.*, Lu, W., <b>Chen, K.</b>, Chau, K. W., & Niu, Y. (2017). Benefit sharing for BIM implementation: Tackling the moral hazard dilemma in inter-firm cooperation. International Journal of Project Management, 35(3), 393-405. DOI: 10.1016/j.ijproman.2017.01.006  
 - <b>J7</b>. Zheng, L., Zheng, X.*, & <b>Chen, K.</b> (2017). Incomplete privatization of public rental housing in Hong Kong. Land Use Policy, 67, 537-545. DOI: 10.1016/j.landusepol.2017.07.007  
 - <b>J8</b>. Li, C. Z., Zhong, R. Y., Xue, F., Xu, G., <b>Chen, K.</b>, Huang, G. G., & Shen, G. Q.* (2017). Integrating RFID and BIM technologies for mitigating risks and improving schedule performance of prefabricated house construction. Journal of Cleaner Production, 165, 1048-1062. DOI: 10.1016/j.jclepro.2017.07.156  
+
 ## 2018
 - <b>J9</b>. <b>Chen, K.*</b>, Xu, G., Xue, F., Zhong, R. Y., Liu, D., & Lu, W. (2018). A physical internet-enabled building information modelling system for prefabricated construction. International Journal of Computer Integrated Manufacturing, 31(4-5), 349-361. DOI: 10.1080/0951192X.2017.1379095  
 - <b>J10</b>. <b>Chen, K.</b>, Lu, W.*, Xue, F., Tang, P., & Li, L. H. (2018). Automatic building information model reconstruction in high-density urban areas: Augmenting multi-source data with architectural knowledge. Automation in Construction, 93, 22-34. DOI: 10.1016/j.autcon.2018.05.009  
@@ -25,6 +28,7 @@ author_profile: true
 - <b>J15</b>. Xu, J.*, Lu, W., Xue, F., <b>Chen, K.</b>, Ye, M., Wang, J., & Chen, X. (2018). Cross-boundary collaboration in waste management research: A network analysis. Environmental Impact Assessment Review, 73, 128-141. DOI: 10.1016/j.eiar.2018.08.005  
 - <b>J16</b>. Wang, H., Lu, W.*, Söderlund, J., & <b>Chen, K.</b> (2018). The interplay between formal and informal institutions in projects: A social network analysis. Project Management Journal, 49(4), 20-35. DOI: 10.1177/8756972818781629  
 - <b>J17</b>. Xue, F., Lu, W.*, & <b>Chen, K.</b> (2018). Automatic generation of semantically rich as-built building information models using 2D images: A derivative-free optimization approach. Computer-Aided Civil and Infrastructure Engineering, 33(11), 926-942. DOI: 10.1111/mice.12378  
+
 ## 2019
 - <b>J18</b>. <b>Chen, K.*</b>, & Lu, W. (2019). Bridging BIM and building (BBB) for information management in construction: The underlying mechanism and implementation. Engineering, Construction and Architectural Management, 26(7), 1518-1532. DOI: 10.1108/ECAM-05-2018-0206  
 - <b>J19</b>. Tan, T., <b>Chen, K.*</b>, Xue, F., & Lu, W. (2019). Barriers to Building Information Modeling (BIM) implementation in China's prefabricated construction: An interpretive structural modeling (ISM) approach. Journal of Cleaner Production, 219, 949-959. DOI: 10.1016/j.jclepro.2019.02.141  
@@ -35,6 +39,7 @@ author_profile: true
 - <b>J24</b>. Xue, F., Lu, W.*, <b>Chen, K.</b>, & Zetkulic, A. (2019). From ‘semantic segmentation’ to ‘semantic registration’: A derivative-free optimization-based approach for automatic generation of semantically rich as-built building information models (BIMs) from 3D point clouds. Journal of Computing in Civil Engineering, 33(4), 04019024. DOI: 10.1061/(ASCE)CP.1943-5487.0000839  
 - <b>J25</b>. Xue, F., Lu, W.*, Webster, C., & <b>Chen, K.</b> (2019). A derivative-free optimization-based approach for detecting architectural symmetries from 3D point clouds. ISPRS Journal of Photogrammetry and Remote Sensing, 148, 32-40. DOI: 10.1016/j.isprsjprs.2018.12.005  
 - <b>J26</b>. Niu, Y.*, Lu, W., Xue, F., Liu, D., <b>Chen, K.</b>, Fang, D., & Anumba, C. (2019). Towards the “Third Wave”: An SCO-enabled occupational health and safety management system for construction. Safety Science, 111, 213-223. DOI: 10.1016/j.ssci.2018.07.013  
+
 ## 2020  
 - <b>J27</b>. <b>Chen, K.*</b> (2020). Enhancing construction safety management through edge computing: Framework and scenarios. Journal of Information Technology in Construction, 25, 438-451. DOI: 10.36680/j.itcon.2020.025  
 - <b>J28</b>. <b>Chen, K.</b>, Lu, W.*, & Wang, J. (2020). University-industry collaboration for BIM education: Lessons learned from a case study. Industry and Higher Education, 34(6), 401-409. DOI: 10.1177/0950422220908799  
@@ -42,6 +47,7 @@ author_profile: true
 - <b>J30</b>. Li, C., Fang, Q., Ding, L.*, Cho, Y. K., & <b>Chen, K</b>. (2020). Time-dependent resilience analysis of a road network in an extreme environment. Transportation Research Part D: Transport and Environment, 85, 102395. DOI: 10.1016/j.trd.2020.102395  
 - <b>J31</b>. Tan, T., Lu, W.*, Tan, G., Xue, F., <b>Chen, K.</b>, Xu, J., Wang, J., & Gao, S. (2020). Construction-oriented design for manufacture and assembly (DfMA) guidelines. Journal of Construction Engineering and Management, 146(8), 04020085. DOI: 10.1061/(ASCE)CO.1943-7862.0001877  
 - <b>J32</b>. Xu, J.*, <b>Chen, K.</b>, Zetkulic, A. E., Xue, F., Lu, W., & Niu, Y. (2020). Pervasive sensing technologies for facility management: a critical review. Facilities, 38(1/2), 161-180. DOI: 10.1108/F-02-2019-0024  
+
 ## 2021  
 - <b>J33</b>. Hu, R., <b>Chen, K.*</b>, Chen, W., Wang, Q., & Luo, H. (2021). Estimation of construction waste generation based on an improved on-site measurement and SVM-based prediction model: A case of commercial buildings in China. Waste Management, 126, 791-799. DOI: 10.1016/j.wasman.2021.04.012  
 - <b>J34</b>. Li, C., Ding, L., Fang, Q.*, <b>Chen, K.*</b>, & Daniel, C-L  (2021). Risk-informed knowledge-based design for road infrastructure in an extreme environment. Knowledge-Based Systems, 216, 106741. DOI: 10.1016/j.knosys.2021.106741  
@@ -57,6 +63,7 @@ author_profile: true
 - <b>CJ5</b>. 金媛, 余宏亮*, <b>陈珂</b>（2021）基于序关系分析-物元可拓的建筑业上市企业科技水平评价研究, 科技管理研究, 41(13): 48-57.  
 - <b>CJ6</b>. 胡睿博, <b>陈珂</b>, 骆汉宾*, 曾恬（2021）城市信息模型（CIM）应用综述和总体框架构建, 土木工程与管理学报, 38(4): 168-175.  
 - <b>CJ7</b>. 余宏亮, 黄金艳*, 蒋励, <b>陈珂</b>（2021）基于视频摘要的地铁工程施工Near-miss事件识别及自动响应研究, 土木工程与管理学报, 38(2): 59-67.  
+
 ## 2022
 - <b>J40</b>. Hu, R., <b>Chen, K.*</b>, Fang, W., Zheng, L., & Xu, J. (2022). The technology-environment relationship revisited: Evidence from the impact of prefabrication on reducing construction waste. Journal of Cleaner Production, 341, 130883. DOI: 10.1016/j.jclepro.2022.130883  
 - <b>J41</b>. Luo, H., Li, L., & <b>Chen, K.*</b> (2022). Parametric modeling for detailed typesetting and deviation correction in shield tunneling construction. Automation in Construction, 134, 104052. DOI: 10.1016/j.autcon.2021.104052  
