@@ -109,6 +109,8 @@ author_profile: true
 - <b>C28</b>. <b>Chen, K.</b>, Liu, Y., Hu, R.*, & Fang, W. (2022). A digital twin-driven deformation monitoring system for deep foundation pit excavation. In Proceedings of 29th EG-ICE International Workshop on Intelligent Computing in Engineering.  
 - <b>C29</b>. Liu, Y., <b>Chen, K.*</b>, Ma, L., Tang, S., & Tan, T. (2021). Transforming data into decision making: A spotlight review of construction digital twin. In Proceedings of International Conference on Construction and Real Estate Management 2021.  
 - <b>C30</b>. Tan, T*., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & <b>Chen, K.</b> (2021). BIM-enabled sustainability assessment of design for manufacture and assembly. In Proceedings of 38th International Symposium on Automation and Robotics in Construction.  
+- <b>C31</b>. Tan, T*., Mills, G., Papadonikolaki, E., Xu, Y., & <b>Chen, K.</b> (2022). Building information modelling in healthcare design and construction: a bibliometric review and systematic review. In Proceedings of 19th International Conference on Computing in Civil and Building Engineering.
+- <b>C32</b>. Li, L., <b>Chen, K.*</b>, Yu, J., Wang, J., & Luo, H. (2022). Parametric modelling of the geological cross section for shield tunnel design and construction. In ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume X-4/W2-2022, 177-184.
 - <b>CJ1</b>. <b>陈珂*</b>, 马恩成, 陈强健, 谭坦 (2021) 基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊, 10(Z1): 37-46.  
 
 # Book Chapter
