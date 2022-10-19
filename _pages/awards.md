@@ -10,7 +10,6 @@ author_profile: true
 * **三等奖（5/10）**, 华中科技大学校级教学成果奖
 * **二等奖（指导老师）**, “大界杯”湖北省智慧城市与智能建造大学生创新创业竞赛
 * **二等奖（指导老师）**, “海创汇杯”智慧城市与智能建造大学生创新创业竞赛
-* **二等奖（指导老师）**, 第二届全国大学生智能建造与管理创新竞赛华中科技大学校内赛
 * **Research Output Prize 2018-19**, The University of Hong Kong
 * **Excellent Paper Award**, CRIOCM 2019 24th International Conference on Advancement of Construction Management and Real Estate
 * **Best Paper Award**, 2nd International Conference on Sustainable Buildings and Structures
