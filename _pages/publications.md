@@ -67,16 +67,19 @@ author_profile: true
 - <b>J46</b>. Liu, W., Shao, Y., <b>Chen, K.</b>, Li, C.*, & Luo, H. (2022). Whale optimization algorithm-based point cloud data processing method for sewer pipeline inspection. Automation in Construction, 141, 104423. DOI: 10.1016/j.autcon.2022.104423  
 - <b>J47</b>. <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124  
 - <b>J48</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819  
-- <b>CJ8</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
-- <b>CJ9</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报  
-- <b>CJ10</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术  
-- <b>CJ11</b>. 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设  
-- <b>CJ12</b>. 魏炜*, 张杰辉, <b>陈珂</b>, 张新, 李坤伦 (2022) 基于G1-CRITIC-FCE的装配式建筑吊装作业施工安全风险评价, 海峡科学  
-- <b>CJ13</b>. 杨玥, 张芸菡, 郑耀武, <b>陈珂*</b> (2022) 地下工程安全隐患闭环管理流程及系统研究, 施工技术  
-- <b>CJ14</b>. 刘泳奇, 吴环宇*, <b>陈珂</b> (2022) 智能建造关键技术在工程造价管理中的应用研究综述, 建筑经济, 43(S1): 245-252.  
-- <b>CJ15</b>. 余璟, 杨玥, 刘珺敏, <b>陈珂*</b> (2022) 我国工程大数据应用现状及发展影响因素研究, 科技创新与应用, 12(19): 18-23.  
-- <b>CJ16</b>. <b>陈珂</b>, 胡睿博, 胡广东*, 池彬 (2022) 中美英绿色建筑运维评价体系的对比研究, 施工技术, 51(11): 1-6.  
-- <b>CJ17</b>. <b>陈珂</b>, 余璟, 张芸菡*, 付赛娅 (2022) 基于智慧工地标准文本分析的智慧工地内涵及系统架构, 施工技术, 51(11): 7-11+17.  
+- <b>CJ8</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报, 36(5): 37-42.  
+- <b>CJ9</b>. 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设, 42(9): 1615-1621.  
+- <b>CJ10</b>. 杨玥, 张芸菡, 郑耀武, <b>陈珂*</b> (2022) 地下工程安全隐患闭环管理流程及系统研究, 施工技术, 51(20): 34-38.  
+- <b>CJ11</b>. 刘泳奇, 吴环宇*, <b>陈珂</b> (2022) 智能建造关键技术在工程造价管理中的应用研究综述, 建筑经济, 43(S1): 245-252.  
+- <b>CJ12</b>. 余璟, 杨玥, 刘珺敏, <b>陈珂*</b> (2022) 我国工程大数据应用现状及发展影响因素研究, 科技创新与应用, 12(19): 18-23.  
+- <b>CJ13</b>. <b>陈珂</b>, 胡睿博, 胡广东*, 池彬 (2022) 中美英绿色建筑运维评价体系的对比研究, 施工技术, 51(11): 1-6.  
+- <b>CJ14</b>. <b>陈珂</b>, 余璟, 张芸菡*, 付赛娅 (2022) 基于智慧工地标准文本分析的智慧工地内涵及系统架构, 施工技术, 51(11): 7-11+17.  
+- <b>CJ15</b>. 魏炜*, 张杰辉, <b>陈珂</b>, 张新, 李坤伦 (2022) 基于G1-CRITIC-FCE的装配式建筑吊装作业施工安全风险评价, 海峡科学  
+- <b>CJ16</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术  
+- <b>CJ17</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
+- <b>CJ18</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2022) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展  
+- <b>CJ19</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2022) 建筑企业技术创新模式选择研究, 土木工程与管理学报  
+- <b>CJ20</b>. 张芸菡, 刘珺敏, 段未珣, <b>陈珂*</b> (2022) 文本数据驱动的施工安全隐患分析流程框架研究, 建筑科学  
 
 # Conference Paper
 - <b>C1</b>. <b>Chen, K.*</b>, & Lu, W. (2015). A BIM-centred system for buffer management. In Proceedings of Going north for sustainability: Leveraging knowledge and innovation for sustainable construction and development, 23-25 November 2015, London.  
@@ -111,6 +114,9 @@ author_profile: true
 - <b>C30</b>. Tan, T*., Papadonikolaki, E., Mills, G., Chen, J., Zhang, Z., & <b>Chen, K.</b> (2021). BIM-enabled sustainability assessment of design for manufacture and assembly. In Proceedings of 38th International Symposium on Automation and Robotics in Construction.  
 - <b>C31</b>. Tan, T*., Mills, G., Papadonikolaki, E., Xu, Y., & <b>Chen, K.</b> (2022). Building information modelling in healthcare design and construction: a bibliometric review and systematic review. In Proceedings of 19th International Conference on Computing in Civil and Building Engineering.
 - <b>C32</b>. Li, L., <b>Chen, K.*</b>, Yu, J., Wang, J., & Luo, H. (2022). Parametric modelling of the geological cross section for shield tunnel design and construction. In ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume X-4/W2-2022, 177-184.
+- <b>C33</b>.	Li, C., <b>Chen, K.*</b>, Li, H., Shao, Y., & Luo, H. (2022). Sewer sediment inspection based on multisensor fusion considering sewage flow. In Proceedings of the 27th International Symposium on Advancement of Construction Management and Real Estate.
+- <b>C34</b>.	Xu, Y.*, Tan, T., Xu, J., <b>Chen, K.</b>, & Zheng, Q. (2022). BIM-enabled design for hospital retrofit in China: A case study. In Proceedings of the 27th International Symposium on Advancement of Construction Management and Real Estate.
+- <b>C35</b>. Zhan, J., Luo, H., Fang, W.*, <b>Chen, K.</b>, Huang, X. (2022). A digital twin-based approach for automated geometric quality inspection in construction. In Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality.
 - <b>CJ1</b>. <b>陈珂*</b>, 马恩成, 陈强健, 谭坦 (2021) 基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊, 10(Z1): 37-46.  
 
 # Book Chapter
