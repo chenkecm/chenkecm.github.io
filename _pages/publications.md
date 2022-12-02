@@ -65,8 +65,9 @@ author_profile: true
 - <b>J44</b>. Jiang, F. Ma, L.*, Broyd, T., <b>Chen, K.</b>, Luo, H. & Du, M. (2022). Building demolition estimation in urban road widening projects using as-is BIM models. Automation in Construction, 144, 104601. DOI: 10.1016/j.autcon.2022.104601  
 - <b>J45</b>. Jiang, F., Ma, L.*, Broyd, T., <b>Chen, K.</b>, & Luo, H. (2022). Underpass clearance checking in highway widening projects using digital twins. Automation in Construction, 141, 104406. DOI: 10.1016/j.autcon.2022.104406  
 - <b>J46</b>. Liu, W., Shao, Y., <b>Chen, K.</b>, Li, C.*, & Luo, H. (2022). Whale optimization algorithm-based point cloud data processing method for sewer pipeline inspection. Automation in Construction, 141, 104423. DOI: 10.1016/j.autcon.2022.104423  
-- <b>J47</b>. <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, In Press. DOI: 10.1108/SASBE-08-2020-0124  
-- <b>J48</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819  
+- <b>J47</b>. <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, 11(3), 575-592. DOI: 10.1108/SASBE-08-2020-0124  
+- <b>J48</b>. Jiang, F. Ma, L.*, Broyd, T., <b>Chen, K.</b>, Luo, H. & Pei, Y. (2022). Sustainable road alignment planning in the built environment based on the MCDM-GIS method. Sustainable Cities and Society, 87, 104246. DOI: 10.1016/j.scs.2022.104246  
+- <b>J49</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819  
 - <b>CJ8</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报, 36(5): 37-42.  
 - <b>CJ9</b>. 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设, 42(9): 1615-1621.  
 - <b>CJ10</b>. 杨玥, 张芸菡, 郑耀武, <b>陈珂*</b> (2022) 地下工程安全隐患闭环管理流程及系统研究, 施工技术, 51(20): 34-38.  
