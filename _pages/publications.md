@@ -67,7 +67,7 @@ author_profile: true
 - <b>J46</b>. Liu, W., Shao, Y., <b>Chen, K.</b>, Li, C.*, & Luo, H. (2022). Whale optimization algorithm-based point cloud data processing method for sewer pipeline inspection. Automation in Construction, 141, 104423. DOI: 10.1016/j.autcon.2022.104423  
 - <b>J47</b>. <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, 11(3), 575-592. DOI: 10.1108/SASBE-08-2020-0124  
 - <b>J48</b>. Jiang, F. Ma, L.*, Broyd, T., <b>Chen, K.</b>, Luo, H. & Pei, Y. (2022). Sustainable road alignment planning in the built environment based on the MCDM-GIS method. Sustainable Cities and Society, 87, 104246. DOI: 10.1016/j.scs.2022.104246  
-- <b>J49</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, In Press. DOI: 10.1080/10429247.2021.1954819  
+- <b>J49</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, 34(4), 543-558. DOI: 10.1080/10429247.2021.1954819  
 - <b>CJ8</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报, 36(5): 37-42.  
 - <b>CJ9</b>. 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设, 42(9): 1615-1621.  
 - <b>CJ10</b>. 杨玥, 张芸菡, 郑耀武, <b>陈珂*</b> (2022) 地下工程安全隐患闭环管理流程及系统研究, 施工技术, 51(20): 34-38.  
@@ -75,8 +75,8 @@ author_profile: true
 - <b>CJ12</b>. 余璟, 杨玥, 刘珺敏, <b>陈珂*</b> (2022) 我国工程大数据应用现状及发展影响因素研究, 科技创新与应用, 12(19): 18-23.  
 - <b>CJ13</b>. <b>陈珂</b>, 胡睿博, 胡广东*, 池彬 (2022) 中美英绿色建筑运维评价体系的对比研究, 施工技术, 51(11): 1-6.  
 - <b>CJ14</b>. <b>陈珂</b>, 余璟, 张芸菡*, 付赛娅 (2022) 基于智慧工地标准文本分析的智慧工地内涵及系统架构, 施工技术, 51(11): 7-11+17.  
-- <b>CJ15</b>. 魏炜*, 张杰辉, <b>陈珂</b>, 张新, 李坤伦 (2022) 基于G1-CRITIC-FCE的装配式建筑吊装作业施工安全风险评价, 海峡科学  
-- <b>CJ16</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术  
+- <b>CJ15</b>. 魏炜*, 张杰辉, <b>陈珂</b>, 张新, 李坤伦 (2022) 基于G1-CRITIC-FCE的装配式建筑吊装作业施工安全风险评价, 海峡科学, 9: 58-66.  
+- <b>CJ16</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术, 53(11): 1576-1579.  
 - <b>CJ17</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
 - <b>CJ18</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2022) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展  
 - <b>CJ19</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2022) 建筑企业技术创新模式选择研究, 土木工程与管理学报  
