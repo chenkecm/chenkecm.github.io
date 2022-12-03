@@ -127,6 +127,10 @@ author_profile: true
 - Lu, W.*, Peng, Y., Xue, F., Chen, K., Niu, Y., & Chen, X. (2017). The fusion of Geographic Information System (GIS) and Building Information Modeling (BIM) for big data analytics in managing development sites, in Huang et al. (ed.) Comprehensive Geographic Information Systems. Elsevier.
 - Lu, W.*, Niu, Y., Liu, D., Chen, K., & Ye, M. (2016). i-Core: Towards a customizable smart construction system for Hong Kong. Innovation in Construction. Hong Kong Construction Industry Council.
 
+# Standard
+- 建筑信息模型协同设计应用标准（T/CECS 1198-2022），参编
+- 建筑信息模型工程造价管理应用标准（T/CECS 1138-2022），参编
+
 # Patent
 - 一种液体空间打印装置及其工作方法，ZL 201910576970.9
 - 考虑人机混驾交通流的信号控制交叉口通行能力确定方法，ZL 202110949438.4
