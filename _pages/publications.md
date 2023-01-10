@@ -77,10 +77,13 @@ author_profile: true
 - <b>CJ14</b>. <b>陈珂</b>, 余璟, 张芸菡*, 付赛娅 (2022) 基于智慧工地标准文本分析的智慧工地内涵及系统架构, 施工技术, 51(11): 7-11+17.  
 - <b>CJ15</b>. 魏炜*, 张杰辉, <b>陈珂</b>, 张新, 李坤伦 (2022) 基于G1-CRITIC-FCE的装配式建筑吊装作业施工安全风险评价, 海峡科学, 9: 58-66.  
 - <b>CJ16</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术, 53(11): 1576-1579.  
-- <b>CJ17</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
-- <b>CJ18</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2022) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展  
-- <b>CJ19</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2022) 建筑企业技术创新模式选择研究, 土木工程与管理学报  
-- <b>CJ20</b>. 张芸菡, 刘珺敏, 段未珣, <b>陈珂*</b> (2022) 文本数据驱动的施工安全隐患分析流程框架研究, 建筑科学  
+- <b>CJ17</b>. 郭丰毅*, 郑林子, <b>陈珂</b> (2022) 我国应急管理信息化面临的问题与对策, 科学发展, 12: 105-112.  
+## 2023
+- <b>J50</b>. Xu, S., Sun, M., Fang, W.*, <b>Chen, K.</b>, Luo, H., & Zou, P. X. (2023). A Bayesian-based knowledge tracing model for improving safety training outcomes in construction: An adaptive learning framework. Developments in the Built Environment, 13, 100111. DOI: 10.1016/j.dibe.2022.100111
+- <b>CJ18</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
+- <b>CJ19</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2022) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展  
+- <b>CJ20</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2022) 建筑企业技术创新模式选择研究, 土木工程与管理学报  
+- <b>CJ21</b>. 张芸菡, 刘珺敏, 段未珣, <b>陈珂*</b> (2022) 文本数据驱动的施工安全隐患分析流程框架研究, 建筑科学  
 
 # Conference Paper
 - <b>C1</b>. <b>Chen, K.*</b>, & Lu, W. (2015). A BIM-centred system for buffer management. In Proceedings of Going north for sustainability: Leveraging knowledge and innovation for sustainable construction and development, 23-25 November 2015, London.  
