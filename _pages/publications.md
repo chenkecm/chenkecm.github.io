@@ -79,11 +79,14 @@ author_profile: true
 - <b>CJ16</b>. 张刚刚, 杨玥, 孙美娟, 胡睿博, <b>陈珂*</b> (2022) 核电工程受限空间作业智能监控系统设计与应用, 建筑技术, 53(11): 1576-1579.  
 - <b>CJ17</b>. 郭丰毅*, 郑林子, <b>陈珂</b> (2022) 我国应急管理信息化面临的问题与对策, 科学发展, 12: 105-112.  
 ## 2023
-- <b>J50</b>. Xu, S., Sun, M., Fang, W.*, <b>Chen, K.</b>, Luo, H., & Zou, P. X. (2023). A Bayesian-based knowledge tracing model for improving safety training outcomes in construction: An adaptive learning framework. Developments in the Built Environment, 13, 100111. DOI: 10.1016/j.dibe.2022.100111
-- <b>CJ18</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2022) 塔吊作业安全管理研究进展, 工业安全与环保  
-- <b>CJ19</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2022) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展  
-- <b>CJ20</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2022) 建筑企业技术创新模式选择研究, 土木工程与管理学报  
-- <b>CJ21</b>. 张芸菡, 刘珺敏, 段未珣, <b>陈珂*</b> (2022) 文本数据驱动的施工安全隐患分析流程框架研究, 建筑科学  
+- <b>J50</b>. Xu, S., Sun, M., Fang, W.*, <b>Chen, K.</b>, Luo, H., & Zou, P. X. (2023). A Bayesian-based knowledge tracing model for improving safety training outcomes in construction: An adaptive learning framework. Developments in the Built Environment, 13, 100111. DOI: 10.1016/j.dibe.2022.100111  
+- <b>J51</b>. Xie, P., <b>Chen, K.</b>, Skibniewski, M. J., Wang, J., & Luo, H.* (2023). Parametric geological model update and probabilistic analysis of shield tunnel excavation: A borehole-based conditional random fields approach. Computers and Geotechnics, 157, 105349. DOI: 10.1016/j.compgeo.2023.105349 
+- <b>CJ18</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2023) 塔吊作业安全管理研究进展, 工业安全与环保  
+- <b>CJ19</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2023) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展  
+- <b>CJ20</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2023) 建筑企业技术创新模式选择研究, 土木工程与管理学报  
+- <b>CJ21</b>. 张芸菡, 刘珺敏, 段未珣, <b>陈珂*</b> (2023) 文本数据驱动的施工安全隐患分析流程框架研究, 建筑科学  
+- <b>CJ22</b>. 黄宇昂, 吴环宇*, 陈坤阳, <b>陈珂</b>, 李晨光 (2023) 预制构件自动生成中智能建造技术应用综述, 土木工程与管理学报
+- <b>CJ23</b>. 孙美娟, 杨玥, 张刚刚, 胡睿博, <b>陈珂*</b> (2023) 基于边缘计算的核电工程受限空间作业安全管理研究, 施工技术
 
 # Conference Paper
 - <b>C1</b>. <b>Chen, K.*</b>, & Lu, W. (2015). A BIM-centred system for buffer management. In Proceedings of Going north for sustainability: Leveraging knowledge and innovation for sustainable construction and development, 23-25 November 2015, London.  
