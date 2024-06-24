@@ -68,7 +68,7 @@ author_profile: true
 - <b>J47</b>. <b>Chen, K.*</b>, & Xue, F. (2022). The renaissance of augmented reality in construction: History, present status, and future directions. Smart and Sustainable Built Environment, 11(3), 575-592. DOI: 10.1108/SASBE-08-2020-0124  
 - <b>J48</b>. Jiang, F. Ma, L.*, Broyd, T., <b>Chen, K.</b>, Luo, H. & Pei, Y. (2022). Sustainable road alignment planning in the built environment based on the MCDM-GIS method. Sustainable Cities and Society, 87, 104246. DOI: 10.1016/j.scs.2022.104246  
 - <b>J49</b>. Luo, H., Sheng, D., Zhong, B.*, <b>Chen, K.</b>, Sepasgozar, S. M. E., & Xing, X. (2022). Conceptual framework for the service-oriented management of construction labor resource. Engineering Management Journal, 34(4), 543-558. DOI: 10.1080/10429247.2021.1954819  
-- <b>CJ8</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报, 36(5): 37-42.  
+- <b>CJ8</b>. <b>陈珂</b>, 杜鹏*, 段未珣, 刘健鹏 (2022) 基于成熟度的施工企业智能建造能力评价模型与应用研究, 工程管理学报, 36(5): 37-42. 
 - <b>CJ9</b>. 李霖皓, <b>陈珂*</b>, 胡云华, 龙凡 (2022) 基于数字地层的盾构隧道纵向结构参数化计算, 隧道建设, 42(9): 1615-1621.  
 - <b>CJ10</b>. 杨玥, 张芸菡, 郑耀武, <b>陈珂*</b> (2022) 地下工程安全隐患闭环管理流程及系统研究, 施工技术, 51(20): 34-38.  
 - <b>CJ11</b>. 刘泳奇, 吴环宇*, <b>陈珂</b> (2022) 智能建造关键技术在工程造价管理中的应用研究综述, 建筑经济, 43(S1): 245-252.  
@@ -81,18 +81,40 @@ author_profile: true
 ## 2023
 - <b>J50</b>. Xu, S., Sun, M., Fang, W.*, <b>Chen, K.</b>, Luo, H., & Zou, P. X. (2023). A Bayesian-based knowledge tracing model for improving safety training outcomes in construction: An adaptive learning framework. Developments in the Built Environment, 13, 100111. DOI: 10.1016/j.dibe.2022.100111  
 - <b>J51</b>. Xie, P., <b>Chen, K.</b>, Skibniewski, M. J., Wang, J., & Luo, H.* (2023). Parametric geological model update and probabilistic analysis of shield tunnel excavation: A borehole-based conditional random fields approach. Computers and Geotechnics, 157, 105349. DOI: 10.1016/j.compgeo.2023.105349
-- <b>J52</b>. Li, L., <b>Chen, K.</b>, Wang, J., & Jiang, Z.* (2023). Parametric structural calculation of shield linings for large-diameter tunnels based on the shell-spring model. KSCE Journal of Civil Engineering, 27, 2716-2732. DOI: 10.1007/s12205-023-2327-7 
+- <b>J52</b>. Li, L., <b>Chen, K.</b>, Wang, J., & Jiang, Z.* (2023). Parametric structural calculation of shield linings for large-diameter tunnels based on the shell-spring model. KSCE Journal of Civil Engineering, 27, 2716-2732. DOI: 10.1007/s12205-023-2327-7
+- <b>J53</b>. Zhang, Y., & <b>Chen, K.*</b> (2023). Digital technologies for enhancing crane safety in construction: A combined quantitative and qualitative analysis. Journal of Civil Engineering and Management, 29(7), 604-620. DOI: 10.3846/jcem.2023.19574
+- <b>J54</b>. Xie, P., <b>Chen, K.</b>, Zhu, Y., & Luo., H.* (2023). Dynamic parametric modeling of shield tunnel: A WebGL-based framework for assisting shield segment assembly point selection. Tunnelling and Underground Space Technology, 142, 105395. DOI: 10.1016/j.tust.2023.105395
+- <b>J55</b>. Liu, C., <b>Chen, K.</b>, Bao, Z., Ng, S. T., Jiang, Z.* (2023). Assessing the impacts of connected-and-autonomous vehicle management strategy on the environmental sustainability of urban expressway system. Sustainable Cities and Society, 99, 104904. DOI: 10.1016/j.scs.2023.104904
+- <b>J56</b>. Chen, S., Bao, Z.*, Ou, Y., & <b>Chen, K.</b> (2023). The synergistic effects of air pollution and urban heat island on public health: a gender-oriented nationwide study of China. Urban Climate, 51, 101671. DOI: 10.1016/j.uclim.2023.101671
+- <b>J57</b>. Xie, P., Luo, H., <b>Chen, K.*</b>, & Yang, Z. (2023). Random field-based tunneling information modeling framework for probabilistic safety assessment of shield tunnels. Journal of Civil Engineering and Management, 29(8), 741-756. DOI: 10.3846/jcem.2023.20428
 - <b>CJ18</b>. 张刚刚, 邓林*, 孙美娟, 段未珣, <b>陈珂</b>, 刘健鹏 (2023) 建筑企业技术创新模式选择研究, 土木工程与管理学报, 40(2): 85-91+107.  
 - <b>CJ19</b>. 张芸菡, 刘珺敏, 段未珣, <b>陈珂*</b> (2023) 文本数据驱动的施工安全隐患分析流程框架研究, 建筑科学, 39(S1): 276-280.
 - <b>CJ20</b>. 张杰辉*, 魏炜, <b>陈珂</b> (2023) 基于SEM-MEA的装配式建筑隐性成本控制水平评价研究, 建筑科学, 39(5): 202-210.
 - <b>CJ21</b>. 孙美娟, 杨玥, 张刚刚, 胡睿博, <b>陈珂*</b> (2023) 基于边缘计算的核电工程受限空间作业安全管理研究, 施工技术, 52(10): 135-138.
 - <b>CJ22</b>. 郭丰毅, <b>陈珂*</b>, 余璟 (2023) 智慧城市背景下的社区信息化管理：国际经验与中国策略, 未来与发展, 47(3): 32-35+41.
-- <b>CJ23</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2023) 塔吊作业安全管理研究进展, 工业安全与环保  
-- <b>CJ24</b>. 黄宇昂, 吴环宇*, 陈坤阳, <b>陈珂</b>, 李晨光 (2023) 预制构件自动生成中智能建造技术应用综述, 土木工程与管理学报
-- <b>CJ25</b>. <b>陈珂</b>, 张芸菡, 郭丰毅*, 王鸿迪 (2023) 智能建造背景下建筑业新业态研究, 科技和产业
-- <b>CJ26</b>. <b>陈珂</b>, 段未珣*, 余璟 (2023) 面向钢筋工程的参数化设计工具对比研究, 计算机时代
-- <b>CJ27</b>. 李霖皓, <b>陈珂*</b>, 陈健, 丁文军 (2023) 基于壳单元的盾构隧道参数化结构计算与验证, 铁道科学与工程学报
-  
+- <b>CJ23</b>. <b>陈珂</b>, 张芸菡, 梁玉瑾*, 余璟 (2023) 塔吊作业安全管理研究进展, 工业安全与环保, 49(7): 55-59+62.
+- <b>CJ24</b>. 黄宇昂, 吴环宇*, 陈坤阳, <b>陈珂</b>, 李晨光 (2023) 预制构件自动生成中智能建造技术应用综述, 土木工程与管理学报, 40(4): 156-165.
+- <b>CJ25</b>. <b>陈珂</b>, 张芸菡, 郭丰毅*, 王鸿迪 (2023) 智能建造背景下建筑业新业态研究, 科技和产业, 23(12): 131-135. 
+- <b>CJ26</b>. <b>陈珂</b>, 段未珣*, 余璟 (2023) 面向钢筋工程的参数化设计工具对比研究, 计算机时代, 2023(8), 16-19+23.
+- <b>CJ27</b>. 骆汉宾, 李霖皓, <b>陈珂*</b>, 陈健, 胡云华, 龙凡 (2023) 数字化盾构隧道管片结构配筋与出图方法研究, 铁道工程学报, 40(9): 84-91.
+## 2024
+- <b>J58</b>. Wang, J., <b>Chen, K.</b>, Yang, H., & Zhang, L.* (2024). Ensemble deep learning enabled multi-condition generative design of aerial building machine considering uncertainties. Automation in Construction, 157, 105134. DOI: 10.1016/j.autcon.2023.105134
+- <b>J59</b>. Ou, Y., Bao, Z.*, Ng, S. T., Song, W., & <b>Chen, K.</b> (2024). Land-use carbon emissions and built environment characteristics: A city-level quantitative analysis in emerging economies. Land Use Policy, 137, 107019. DOI: 10.1016/j.landusepol.2023.107019
+- <b>J60</b>. Long, W., Bao, Z.*, <b>Chen, K.</b>, Ng, S. T.*, & Wuni, I. Y. (2024). Developing an integrative framework for digital twin applications in the building construction industry: A systematic literature review. Advanced Engineering Informatics, 59, 102346. DOI: 10.1016/j.aei.2023.102346
+- <b>J61</b>. Liu, C., Zhang, C., Yu, C.,<b>Chen, K.</b>, & Jiang, Z.* (2024). Joint optimization of longitudinal and lateral locations of autonomous-vehicle-dedicated lanes on expressways. IEEE Transactions on Intelligent Transportation Systems, 25(1), 430-442. DOI: 10.1109/TITS.2023.3306792
+- <b>J62</b>. Li, C., <b>Chen, K.*</b>, Li, H., & Luo, H. (2024). Multisensor data fusion approach for sediment assessment of sewers in operation. Engineering Applications of Artificial Intelligence, 132, 107965. DOI: 10.1016/j.engappai.2024.107965
+- <b>J63</b>. Hu, R., <b>Chen, K.*</b>, Jiang, W., & Luo, H. (2024). IFC data extension for real-time safety monitoring of automated construction in high-rise building projects. Automation in Construction, 162, 105408. DOI: 10.1016/j.autcon.2024.105408
+- <b>J64</b>. Luo, L., Hu, S., <b>Chen, K.*</b>, Liu, Y., & Li, C. Z. (2024). Exploring safety vulnerability in prefabricated construction and mitigation effects of Internet of Things. IEEE Transactions on Engineering Management, 71, 8531-8547. DOI: 10.1109/TEM.2024.3378840
+- <b>J65</b>. Xie, P., <b>Chen, K.</b>, Yin, Z., Zhu, Y., Luo, H.*, & Zhang, Q. (2024). A BIM-based multi-model framework for advancing TBM performance - Part 1: Real-time prediction of thrust force. Tunnelling and Underground Space Technology, 151, 105856. DOI: 10.1016/j.tust.2024.105856
+- <b>J66</b>. Wang, Y., <b>Chen, K.</b>, Wen, Z., & Jiang, Z.* (2024). Assessing risk of acute respiratory infectious diseases in crowded indoor settings with digital twin and precision trajectory approach. Environmental and Sustainability Indicators, 23, 100424. DOI: 10.1016/j.indic.2024.100424 8
+- <b>J67</b>. Jiang, W., Liu, Y., <b>Chen, K.*</b>, Liu, Y., & Ding, L. (2024). Early-warning of unsafe hoisting operations: An integration of digital twin and knowledge graph. Developments in the Built Environment, 19, 100490. DOI:  10.1016/j.dibe.2024.100490
+- <b>J68</b>. Fan, J., Chen, L., & <b>Chen, K.*</b> (2024). Digitalizing industrialized construction projects: Status quo and future development. Applied Sciences, 14(13), 5456. DOI: doi.org/10.3390/app14135456
+- <b>CJ28</b>. 李霖皓, <b>陈珂*</b>, 陈健, 丁文军 (2024) 基于壳单元的盾构隧道参数化结构计算与验证, 铁道科学与工程学报, 21(1): 253-263.
+- <b>CJ29</b>. <b>陈珂</b>, 方帅, 刘陈哲, 王刚, 郭丰毅* (2024) 国外建筑业人才培养的制度经验与启示, 科技促进发展, 20(1): 38-43.
+- <b>CJ30</b>. 盛达*, 骆汉宾, <b>陈珂</b> (2024) 建筑工人信息共享演化博弈分析, 运筹与管理, 33(3): 41-48.
+- <b>CJ30</b>. <b>陈珂*</b>, 段未珣, 周诚 (2024) 智能建造专业教师能力培训需求及保障措施研究, 大学教育, 2024(7), 10-13+17.
+- <b>CJ30</b>. 刘天瑞, <b>陈珂*</b>, 谢平, 陈健 (2024) 基于约束随机场的基坑开挖变形概率评估方法, 科学技术与工程, 24(16), 6845-6853.
+
 # Conference Paper
 - <b>C1</b>. <b>Chen, K.*</b>, & Lu, W. (2015). A BIM-centred system for buffer management. In Proceedings of Going north for sustainability: Leveraging knowledge and innovation for sustainable construction and development, 23-25 November 2015, London.  
 - <b>C2</b>. Wang, H., <b>Chen, K.*</b>, & Lu, W. (2015). Re-examining contractor’s BIM strategies: A case study. In Proceedings of the 4th World Symposium 2015. 12-14 June 2015, Colombo, Sri Lanka.  
@@ -129,7 +151,8 @@ author_profile: true
 - <b>C33</b>.	Li, C., <b>Chen, K.*</b>, Li, H., Shao, Y., & Luo, H. (2022). Sewer sediment inspection based on multisensor fusion considering sewage flow. In Proceedings of the 27th International Symposium on Advancement of Construction Management and Real Estate.
 - <b>C34</b>.	Xu, Y.*, Tan, T., Xu, J., <b>Chen, K.</b>, & Zheng, Q. (2022). BIM-enabled design for hospital retrofit in China: A case study. In Proceedings of the 27th International Symposium on Advancement of Construction Management and Real Estate.
 - <b>C35</b>. Zhan, J., Luo, H., Fang, W.*, <b>Chen, K.</b>, Huang, X. (2022). A digital twin-based approach for automated geometric quality inspection in construction. In Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality.
-- <b>CJ1</b>. <b>陈珂*</b>, 马恩成, 陈强健, 谭坦 (2021) 基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊, 10(Z1): 37-46.  
+- <b>CC1</b>. <b>陈珂*</b>, 马恩成, 陈强健, 谭坦 (2021) 基于DEMATEL-ISM的国产BIM建模软件发展影响因素研究, 工程管理年刊, 10(Z1): 37-46.
+- <b>CC2</b>. 王迦淇, 张立茂*, <b>陈珂</b> (2023) 面向空中造楼机的智能建造应用框架与关键技术研究, 智慧城市与智能建造论文集, 142-149.
 
 # Book Chapter
 - 工程项目管理信息分析，中国建筑工业出版社（参编第12章）
@@ -141,13 +164,19 @@ author_profile: true
 # Standard
 - 建筑信息模型协同设计应用标准（T/CECS 1198-2022），参编
 - 建筑信息模型工程造价管理应用标准（T/CECS 1138-2022），参编
+- 城市信息模型多源异构数据融合标准（T/CASME 526-2023），参编
+- 城市信息模型的数据分类与编码技术规范（T/CASME 916-2023），参编
 
 # Patent
 - 一种液体空间打印装置及其工作方法，ZL 201910576970.9
 - 考虑人机混驾交通流的信号控制交叉口通行能力确定方法，ZL 202110949438.4
 - 一种自动驾驶车辆专用车道直线段宽度确定方法，ZL 202111054510.3
 - 网联自动汽车通行能力校正因子与折算系数确定方法，ZL 202111118941.1
-- 一种高速公路自动驾驶专用车道设置决策方法，ZL 202111197797.5  
+- 一种高速公路自动驾驶专用车道设置决策方法，ZL 202111197797.5
+- 一种考虑近迫感效应的自动驾驶车道宽度确定方法，ZL202111127195.2
+- 考虑不同制式自动驾驶车辆的高速公路通行能力计算方法，ZL202111197799.4
+- 一种深基坑变形监测方法、装置和服务器，ZL202210394560.4
+- 一种城市分布式光伏系统数据的图数据库构建方法及应用，ZL202410300101.4
 
 # Software Copyright
 - 月亮湾城市阳台AR实景可视化系统，2019SR1424463
@@ -158,3 +187,9 @@ author_profile: true
 - 轨道交通质量管理云应用系统，2022SR0472608
 - 深基坑施工安全监控预警云应用系统, 2022SR0696280
 - 两湖隧道施工环境风险可视化平台软件，2022SR0934027
+- 盾构隧道参数化模型自动概率安全评估平台，2022SR1377693
+- 参数化地质建模与可视化平台，2022SR1377694
+- 中铁七局沿江高铁智慧梁场施工生产全过程管理平台，2022SR1554982
+- 梁场户外机器人作业规划平台软件，2022SR1554983
+- 历史建筑风貌资产云应用系统，2023SR0533986
+
